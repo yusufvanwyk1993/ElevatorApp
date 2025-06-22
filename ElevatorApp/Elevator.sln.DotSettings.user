@@ -1,0 +1,39 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\yusuf\AppData\Local\JetBrains\Rider2025.1\resharper-host\temp\Rider\vAny\CoverageData\_Elevator.-1416138606\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=07836cbf_002Da74b_002D4913_002Db3c6_002Da60e8ac9cea7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShowStatus_ShouldNotThrow" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::36B9A9DF-106A-4555-A3BA-26F18BED705B::net9.0::Elevator.Tests.ServicesTest.RequestServiceTests.ShowStatus_ShouldNotThrow&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::36B9A9DF-106A-4555-A3BA-26F18BED705B::net9.0::Elevator.Tests.ServicesTest.RequestServiceTests.SelectElevator_ShouldReturnSelectedKey&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::36B9A9DF-106A-4555-A3BA-26F18BED705B::net9.0::Elevator.Tests.ServicesTest.RequestServiceTests.CreateRequest_ShouldReturnValidRequest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2849faaa_002D2cfa_002D48ce_002Da87b_002Dd942398ccd4c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateRequest_ShouldReturnValidRequest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::36B9A9DF-106A-4555-A3BA-26F18BED705B::net9.0::Elevator.Tests.ServicesTest.RequestServiceTests.CreateRequest_ShouldReturnValidRequest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=58f5cf8f_002D40cb_002D4a75_002Dbf6c_002D2c6cf3538a7e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateRequest_ShouldReturnValidRequest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\yusuf\Desktop\Elevator\Elevator.Tests\Elevator.Tests" Presentation="&amp;lt;Elevator.Tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=73949ca5_002D0ff3_002D458a_002D8033_002Da3399c4d8d66/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SelectElevator_ShouldReturnSelectedKey" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::36B9A9DF-106A-4555-A3BA-26F18BED705B::net9.0::Elevator.Tests.ServicesTest.RequestServiceTests.SelectElevator_ShouldReturnSelectedKey&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7854fc57_002D69f7_002D444f_002Da16e_002D483e900f7b00/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IntExtensionTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::36B9A9DF-106A-4555-A3BA-26F18BED705B::net9.0::Elevator.Tests.ExtensionsTest.IntExtensionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::36B9A9DF-106A-4555-A3BA-26F18BED705B::net9.0::Elevator.Tests.ServicesTest.RequestServiceTests.CreateRequest_ShouldReturnValidRequest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=aeaf4c43_002D4349_002D487d_002D85b1_002D5f533c9410a5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShowStatus_ShouldNotThrow" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::36B9A9DF-106A-4555-A3BA-26F18BED705B::net9.0::Elevator.Tests.ServicesTest.RequestServiceTests.ShowStatus_ShouldNotThrow&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f59042ee_002D8387_002D4b04_002D8758_002D0488208c41c1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IntExtensionTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::36B9A9DF-106A-4555-A3BA-26F18BED705B::net9.0::Elevator.Tests.ExtensionsTest.IntExtensionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::36B9A9DF-106A-4555-A3BA-26F18BED705B::net9.0::Elevator.Tests.ServicesTest.RequestServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
