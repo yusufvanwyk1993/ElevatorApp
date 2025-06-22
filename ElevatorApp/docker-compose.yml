@@ -1,0 +1,6 @@
+﻿services:
+  elevatorapp:
+    image: elevatorapp
+    build:
+      context: .
+      dockerfile: Dockerfile
