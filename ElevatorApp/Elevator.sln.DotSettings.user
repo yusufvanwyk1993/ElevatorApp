@@ -1,5 +1,5 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\yusuf\AppData\Local\JetBrains\Rider2025.1\resharper-host\temp\Rider\vAny\CoverageData\_Elevator.-1416138606\Snapshot\snapshot.utdcvr</s:String>
+	
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=07836cbf_002Da74b_002D4913_002Db3c6_002Da60e8ac9cea7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShowStatus_ShouldNotThrow" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::36B9A9DF-106A-4555-A3BA-26F18BED705B::net9.0::Elevator.Tests.ServicesTest.RequestServiceTests.ShowStatus_ShouldNotThrow&lt;/TestId&gt;&#xD;
