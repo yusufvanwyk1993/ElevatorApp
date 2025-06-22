@@ -202,9 +202,9 @@ The system provides real-time tracking and interaction with elevators in a build
 1. Toggle logs on and off.
 2. Add emergency button per elevator.
 3. Add a way to cancel request if all users decide not to take the elevator anymore.
-4. ...
+4. Add distributed messages to elevator apps through queues using rabbitmq or kafqa
 ### Development Changes
 1. Unify prompts into a template to be reused.
 2. Enhance unit test.
 3. Make services more extensible.
-4. ...
+4. Use Rabbitmq consumers to consume message given from elevator control box.
